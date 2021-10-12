@@ -17,13 +17,14 @@ a:hover, a:visited, a:active{
 }
 
 .menu .logo{
-float: left;
+	float: left;
 }
 
 .menu li{
 	float: right;
 	margin-right: 50px;
 }
+
 /*Section 1 Main part*/
 .info{
 	background-color: lightgray;
